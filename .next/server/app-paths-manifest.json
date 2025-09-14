@@ -1,0 +1,7 @@
+{
+  "/(root)/page": "app/(root)/page.js",
+  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
+  "/api/create-checkout-session/route": "app/api/create-checkout-session/route.js",
+  "/books/[bookSlug]/page": "app/books/[bookSlug]/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js"
+}
