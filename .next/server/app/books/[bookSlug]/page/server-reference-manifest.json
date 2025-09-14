@@ -1,0 +1,35 @@
+{
+  "node": {
+    "00ce0db2cf20d07fda22c2f82ed4b3972115df27e2": {
+      "workers": {
+        "app/books/[bookSlug]/page": {
+          "moduleId": "[project]/.next-internal/server/app/books/[bookSlug]/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/components/user-avatar.tsx [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/components/sign-in-button.tsx [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "$$RSC_SERVER_ACTION_0",
+          "filename": "src/components/user-avatar.tsx"
+        }
+      },
+      "layer": {
+        "app/books/[bookSlug]/page": "rsc"
+      },
+      "exportedName": "$$RSC_SERVER_ACTION_0",
+      "filename": "src/components/user-avatar.tsx"
+    },
+    "002682c2249ca7f4ee04fc9290258874c761b3f999": {
+      "workers": {
+        "app/books/[bookSlug]/page": {
+          "moduleId": "[project]/.next-internal/server/app/books/[bookSlug]/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/components/user-avatar.tsx [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/components/sign-in-button.tsx [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "$$RSC_SERVER_ACTION_0",
+          "filename": "src/components/sign-in-button.tsx"
+        }
+      },
+      "layer": {
+        "app/books/[bookSlug]/page": "rsc"
+      },
+      "exportedName": "$$RSC_SERVER_ACTION_0",
+      "filename": "src/components/sign-in-button.tsx"
+    }
+  },
+  "edge": {}
+}
